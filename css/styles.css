@@ -1,0 +1,65 @@
+/*Nina Kong*/
+body {
+    font-family: "Open Sans", Helvetica, sans-serif;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+    line-height: 2em;
+}
+h1 {
+	background-color: #2cb6ab;
+	padding-top: 30px !important;
+}
+h1 span {
+	padding: 1em;
+	border-bottom: 2px solid rgba(0, 0, 0, 0.125);
+}
+h2 {
+    font-size: 1.75em;
+    line-height: 1.5em;
+    font-weight: 600;
+}
+h2 i {
+    color: #2cb6ab!important;
+}
+.container {
+    position: relative;
+    background-color: #2cb6ab;
+}
+.TVLinks {
+	padding-top: 140px;
+}
+.navs a {
+	display: inline-block;
+	font-size: 1.5em;
+	color: #fff;
+	margin-bottom: 1.5em;
+}
+.font-color {
+	color: #fff;
+}
+.SectionContent {
+    background-color: #3a424b;
+}
+.SectionContent div {
+    padding: 1em 4em;
+    margin-top: 5%;
+}
+/*Ultility*/
+.align-center {
+	text-align: center;
+}
+.align-left {
+	text-align: left;
+}
+.align-right {
+	text-align: right;
+}
+.float-right {
+	float: right;
+}
+.padding-0 {
+	padding: 0;
+}
+
